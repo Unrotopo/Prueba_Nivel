@@ -1,7 +1,7 @@
 
 public class DateValidator {
 
-    int[] hasThirtyDays = {1, 3, 5, 7, 8, 10, 12};
+    int[] hasThirtyDays = {2, 4, 6, 9, 11};
 
     public boolean validateDate(String date) {
         int day = 0, month = 0, year = 0;

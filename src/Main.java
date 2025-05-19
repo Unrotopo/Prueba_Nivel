@@ -3,6 +3,6 @@ public class Main {
 
         DateValidator dateValidator = new DateValidator();
 
-        dateValidator.validateDate("28/02/2025");
+        dateValidator.validateDate("31/02/2025");
     }
 }
